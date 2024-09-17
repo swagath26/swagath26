@@ -2,7 +2,7 @@
 
 ## About Me
 - 🎯 I'm a Software Developer in progress...
-- 🌱 Currently learning Flutter
+- 🌱 Currently doing React projects
 - 👯 Open to Work & Collaboration
 
 ## Languages and Tools:
@@ -23,16 +23,6 @@
 - [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
   [![AWS](https://img.shields.io/badge/aws-%23FF9900?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
   [![Git](https://img.shields.io/badge/Git-%23F05033?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-
-- [![NumPy](https://img.shields.io/badge/numpy-%23013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
-  [![Pandas](https://img.shields.io/badge/pandas-%23150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-  [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff?style=flat&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
-  [![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
-  [![TensorFlow](https://img.shields.io/badge/TensorFlow-white?style=flat&logo=tensorflow)](https://www.tensorflow.org/)
-  [![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)](https://keras.io/)
-
-  
-- [![Arduino](https://img.shields.io/badge/Arduino-blue?style=flat&logo=arduino&logoColor=white)](https://www.arduino.cc/)
   
 
 ## Connect with me:
