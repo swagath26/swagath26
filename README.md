@@ -1,7 +1,7 @@
 ## Hi, I'm Swagath 👋
 
 ### About Me
-- 🎯 I'm a Software Developer in progress...
+- 🎯 I'm a Software Engineer in progress...
 - 🌱 Currently doing React projects
 - 👯 Open to Work & Collaboration
 
