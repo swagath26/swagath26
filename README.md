@@ -2,7 +2,7 @@
 
 ### About Me
 - 🎯 I'm a Software Engineer in progress...
-- 🌱 Currently doing React projects
+- 🌱 Currently working on web and mobile app projects
 - 👯 Open to Work & Collaboration
 
 ### Languages and Tools:
